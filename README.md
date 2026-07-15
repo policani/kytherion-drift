@@ -2,7 +2,7 @@
 
 Status: playable single-file browser game. Public demo: https://policani.net/kytherion-drift/
 
-![Kytherion Drift gameplay preview](https://policani.net/assets/kytherion-drift-preview.jpg)
+![Kytherion Drift gameplay preview](assets/kytherion-drift-preview.jpg)
 
 Kytherion Drift is a fast canvas arcade shooter with exotic weapon pickups, boss waves, touch controls, keyboard movement, particle-heavy combat, and a 16:9 starfield playfield. It runs entirely in the browser from one HTML file.
 
